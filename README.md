@@ -1,4 +1,4 @@
-"""# FLUX Identity Adjuster (V2)
+### FLUX Identity Adjuster (V2)
 
 The node has been created through vibe coding. The main objective is for identity consistency for FLUX.2 klein 9b models in ComfyUI.
 
